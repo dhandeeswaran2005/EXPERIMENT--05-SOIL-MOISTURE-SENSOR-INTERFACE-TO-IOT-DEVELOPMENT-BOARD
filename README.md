@@ -108,8 +108,8 @@ GND is the ground pin.
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed by : NIKSHITHA G
-REGISTER NUMBER: 212223110031
+Developed by : M GAYATHIRI ROSHINI 
+REGISTER NUMBER: 212223110012
 
 #include "main.h"
 #include "stdio.h"
@@ -162,7 +162,7 @@ PUTCHAR_PROTOTYPE
 ```
 ## Output screen shots on serial monitor   :
  
- ![alt text](<Screenshot 2025-05-05 143141.png>)
-  
+ ![image](https://github.com/user-attachments/assets/3680590d-3d08-491b-be6e-cef0a774cc7b)
+
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
